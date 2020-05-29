@@ -5,3 +5,5 @@
 [第一章 IPython](第一章.md)
 
 [第二章 NumPy入门](第二章.md)
+
+[第三章 NumPy入门](第三章.md)
