@@ -1,5 +1,6 @@
 # Command Go
 
+[返回](../index.md)
 [toc]
 
 Go 是一个管理Go源代码的工具
