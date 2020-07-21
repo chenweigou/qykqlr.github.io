@@ -2,7 +2,10 @@
 
 ## Python数据科学手册[¶](Python数据科学手册/index.md)
 
-## pandas组队学习[¶](pandas组队学习/index.md)
+## 组队学习
+
+* Pandas[¶](组队学习/pandas/index.md)
+* NewsTextClassification[¶](组队学习/NewsTextClassification/index.md)
 
 ## 其他笔记
 
