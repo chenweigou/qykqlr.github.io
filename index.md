@@ -6,7 +6,8 @@
 
 * Pandas[¶](组队学习/pandas/index.md)
 * NewsTextClassification[¶](组队学习/NewsTextClassification/index.md)
-* PurchaseAndRedemptionForecast[¶](组队学习/PurchaseAndRedemptionForecast/index.md)
+* PurchaseAndRedemptionForecast[¶](组队学习/PurchaseAndRedemptionForecast/#index.md)
+* RecommendationSystemFundamentals(组队学习/RecommendationSystemFundamentals)
 
 ## 其他笔记
 
