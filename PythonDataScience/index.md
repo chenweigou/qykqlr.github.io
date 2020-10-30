@@ -1,4 +1,4 @@
-# [Python数据科学手册](Python数据科学手册.pdf)
+# [Python数据科学手册]
 
 [返回](../index.md)
 
