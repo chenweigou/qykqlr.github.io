@@ -8,6 +8,7 @@
 * NewsTextClassification[¶](team-learning/NewsTextClassification/index.md)
 * PurchaseAndRedemptionForecast[¶](team-learning/PurchaseAndRedemptionForecast/index.md)
 * RecommendationSystemFundamentals[¶](team-learning/RecommendationSystemFundamentals/index.md)
+* KnowledgeGraph_Basic[¶](team-learning/KnowledgeGraph_Basic/index.md)
 
 ## 其他笔记
 
