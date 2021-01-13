@@ -1,5 +1,7 @@
 # Datawhale 知识图谱组队学习 之 Task 1 知识图谱介绍
 
+[返回](./index.md)
+
 > 文章编写人：吴晓均、康兵兵<br/>
 > github 地址：
 
